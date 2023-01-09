@@ -1,4 +1,4 @@
-# Kapseln
+# kapseln
 
 Android app for pharmacy (Apotheke) to evaluate quality of pill with active agent
 
