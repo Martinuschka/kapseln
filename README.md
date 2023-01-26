@@ -1,6 +1,6 @@
 # kapseln
 
-Android app for pharmacy (Apotheke) to evaluate quality of pill with active agent
+Android app for pharmacy (Apotheke) to evaluate quality of pills with active agent
 
 (Android Studio)
 
