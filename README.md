@@ -5,3 +5,5 @@ Android app for pharmacy (Apotheke) to evaluate quality of pills with active age
 (Android Studio)
 
 (old project and written in Java instead of Kotlin)
+
+**(archived)**
